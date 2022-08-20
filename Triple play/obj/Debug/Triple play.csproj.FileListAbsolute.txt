@@ -1,0 +1,7 @@
+C:\Users\docenteitm.SALASFR\source\repos\Triple play\bin\Debug\Triple play.exe.config
+C:\Users\docenteitm.SALASFR\source\repos\Triple play\bin\Debug\Triple play.exe
+C:\Users\docenteitm.SALASFR\source\repos\Triple play\bin\Debug\Triple play.pdb
+C:\Users\docenteitm.SALASFR\source\repos\Triple play\obj\Debug\Triple play.csproj.AssemblyReference.cache
+C:\Users\docenteitm.SALASFR\source\repos\Triple play\obj\Debug\Triple play.csproj.CoreCompileInputs.cache
+C:\Users\docenteitm.SALASFR\source\repos\Triple play\obj\Debug\Triple play.exe
+C:\Users\docenteitm.SALASFR\source\repos\Triple play\obj\Debug\Triple play.pdb
