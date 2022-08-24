@@ -1,0 +1,8 @@
+C:\Users\valex\OneDrive\Desarrollo de software\AgendaAmigo\AgendaAmigo\bin\Debug\AgendaAmigo.exe.config
+C:\Users\valex\OneDrive\Desarrollo de software\AgendaAmigo\AgendaAmigo\bin\Debug\AgendaAmigo.exe
+C:\Users\valex\OneDrive\Desarrollo de software\AgendaAmigo\AgendaAmigo\bin\Debug\AgendaAmigo.pdb
+C:\Users\valex\OneDrive\Desarrollo de software\AgendaAmigo\AgendaAmigo\obj\Debug\AgendaAmigo.csproj.AssemblyReference.cache
+C:\Users\valex\OneDrive\Desarrollo de software\AgendaAmigo\AgendaAmigo\obj\Debug\AgendaAmigo.csproj.SuggestedBindingRedirects.cache
+C:\Users\valex\OneDrive\Desarrollo de software\AgendaAmigo\AgendaAmigo\obj\Debug\AgendaAmigo.csproj.CoreCompileInputs.cache
+C:\Users\valex\OneDrive\Desarrollo de software\AgendaAmigo\AgendaAmigo\obj\Debug\AgendaAmigo.exe
+C:\Users\valex\OneDrive\Desarrollo de software\AgendaAmigo\AgendaAmigo\obj\Debug\AgendaAmigo.pdb
